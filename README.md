@@ -1,1 +1,1 @@
-# vue-tips-samples-pages
+# vue-tips-sample-demos
